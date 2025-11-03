@@ -1,27 +1,27 @@
-# 👋 Hi, I'm Demiana Abadir
+#  Hi, I'm Demiana Abadir
 
-## 🚀 Data Scientist & Business Intelligence Analyst
+##  Data Scientist & Business Intelligence Analyst
 
 I turn data into actionable insights for better decisions.  
 Skilled in **Python**, **SQL**, and **Tableau**.
 
 ---
 
-### 💻 Skills & Technologies
+### Skills & Technologies
 - Python: data analysis, machine learning
 - SQL: querying
 - Tableau: interactive dashboards, reporting
 
 ---
 
-### 📈 What I Do
+###  What I Do
 - Build predictive models and analytical solutions
 - Create dashboards to visualize business trends
 - Translate raw data into insights
 
 ---
 
-### 🌱 Learning & Interests
+###  Learning & Interests
 - Advanced analytics
 - Open-source collaboration in data and BI
 
