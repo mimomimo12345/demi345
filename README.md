@@ -1,6 +1,6 @@
 #  Hi, I'm Demiana Abadir
 
-##  Data Scientist & Business Intelligence Analyst
+##  Data Scientist & Data Analyst
 
 I turn data into actionable insights for better decisions.  
 Skilled in **Python**, **SQL**, and **Tableau**.
