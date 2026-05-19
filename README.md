@@ -1,4 +1,4 @@
-#  Hi, I'm Demiana Abadir
+
 
 ##  Data Scientist & Data Analyst
 
